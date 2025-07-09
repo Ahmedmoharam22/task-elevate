@@ -26,8 +26,7 @@ The project is built with *React* using *Vite* for fast development, styled usin
 ---
 
 ## 🔗 Live Demo
-
-[👉 View the live project here](task-elevate-y1p5t3wpm-ahmed-moharams-projects.vercel.app)
+task-elevate-y1p5t3wpm-ahmed-moharams-projects.vercel.app
 
 ---
 
