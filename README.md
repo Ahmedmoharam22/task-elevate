@@ -1,58 +1,52 @@
+# 🚀 Frontend Challenge – Elevate Bootcamp
 
-# 🛒 Basic Cart App
+This is my submission for the Elevate Frontend Advanced Bootcamp technical challenge.  
+The project is built with *React* using *Vite* for fast development, styled using *Tailwind CSS, and fetches data via **Axios* from the DummyJSON API.
 
-A simple e-commerce cart application built using *React* and *Redux*. The app fetches product data from a free API and allows users to add/remove items from the cart.
+---
 
-## 🚀 Features
+## 🛠 Tech Stack
 
-- 🏠 Display products on the homepage  
-- ➕ Add items to the cart  
-- ❌ Remove items from the cart  
-- 🔄 State management using *Redux*  
-- 🌐 Fetch products from a free API using *Axios*  
-- ⚡ Responsive and user-friendly UI  
+- *Vite* – Fast React development environment
+- *React* – Component-based UI
+- *Tailwind CSS* – Utility-first CSS framework
+- *Axios* – For API calls
+- *DummyJSON API* – Used for mock data
 
-## 🛠 Technologies Used
+---
 
-- *React.js*  
-- *Redux Toolkit*  
-- *Axios*  
-- *React Bootstrap*  
+## 📦 Features
 
+- Responsive UI with Tailwind
+- Fetching and displaying data using Axios
+- Clean component structure with hooks
+- Loading and error handling states
+- Modern build tool (Vite) for fast performance
 
-## 📦 Installation & Setup
+---
 
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/Ahmedmoharam22/basic-cart-app.git
-   cd basic-cart-app
+## 🔗 Live Demo
 
-	2.	Install dependencies:
+[👉 View the live project here](task-elevate-y1p5t3wpm-ahmed-moharams-projects.vercel.app)
 
+---
+
+## 🚀 Getting Started
+
+To run the project locally:
+
+bash
+git clone https://github.com/your-username/your-repo-name.git
+cd your-repo-name
 npm install
+npm run dev
 
-
-	3.	Start the development server:
-
-npm start
-
-
-
-📡 API Used
-
-This project fetches product data from Example API.
-You can replace it with any other free product API.
-
-🤝 Contribution
-
-Feel free to fork this repo and submit pull requests to improve the app! 🚀
-
-📜 License
-
-This project is free to use and does not require any license.
 
 ⸻
 
-🔗 Live Demo: Basic Cart App
-📬 Contact: [ahmed.moharam.worke@gmail.com]
+🙋‍♂ About Me
+
+I’m Ahmed Moharam, a frontend developer passionate about building clean and interactive web apps using modern tools like React, Tailwind, and Vite.
+
+Feel free to check out my other work or reach out!
 
